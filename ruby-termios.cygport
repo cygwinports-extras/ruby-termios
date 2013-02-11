@@ -1,0 +1,11 @@
+ORIG_PN="ruby-termios"
+inherit rubygem
+
+NAME="ruby-termios"
+VERSION=0.9.6
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby termios extension"
+DESCRIPTION="Termios module is simple wrapper of termios(3). It can be included
+into IO-family classes and can extend IO-family objects. In addition, the
+methods can use as module function."
